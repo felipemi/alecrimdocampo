@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'LucidaCalligraphyItalic';
+    src: url('lcallig.eot');
+    src: url('lcallig.eot') format('embedded-opentype'),
+         url('lcallig.woff') format('woff'),
+         url('lcallig.ttf') format('truetype'),
+         url('lcallig.svg#LucidaCalligraphyItalic') format('svg');
+}
